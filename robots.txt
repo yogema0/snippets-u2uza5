@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yogema0.github.io/snippets-u2uza5/sitemap.xml
